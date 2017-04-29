@@ -1,0 +1,31 @@
+traceroute to www.1and1.es (217.160.86.33), 30 hops max, 60 byte packets
+ 1  rtr31-2.cs.ucr.edu (169.235.31.2)  0.981 ms  1.074 ms  1.148 ms
+ 2  c-tele-1-t11-4.ucr.edu (138.23.3.105)  0.381 ms  0.659 ms  0.682 ms
+ 3  xmr-telecom-1--te1-1.ucr.edu (138.23.3.29)  0.352 ms  0.470 ms  0.546 ms
+ 4  dc-riv-agg4--ucr-10ge.cenic.net (137.164.50.69)  5.148 ms  5.304 ms  5.396 ms
+ 5  dc-lax-agg7--riv-agg4-100ge.cenic.net (137.164.11.2)  5.236 ms  5.304 ms  5.338 ms
+ 6  dc-lax-agg6--lax-agg7-100g.cenic.net (137.164.11.10)  5.184 ms  5.233 ms  5.252 ms
+ 7  8-1-1-90.ear1.LosAngeles1.Level3.net (4.35.156.65)  6.054 ms  6.306 ms  6.468 ms
+ 8  ae-1-60.edge1.LosAngeles9.Level3.net (4.69.144.10)  4.937 ms ae-4-90.edge1.LosAngeles9.Level3.net (4.69.144.202)  4.990 ms ae-1-60.edge1.LosAngeles9.Level3.net (4.69.144.10)  5.005 ms
+ 9  ae-2-70.edge1.LosAngeles9.Level3.net (4.69.144.74)  4.901 ms ae-1-60.edge1.LosAngeles9.Level3.net (4.69.144.10)  4.952 ms  4.959 ms
+10  Telia-level3-4x10G.LosAngeles.Level3.net (4.68.70.130)  5.540 ms  7.248 ms  5.498 ms
+11  nyk-bb1-link.telia.net (62.115.120.240)  85.403 ms nyk-bb2-link.telia.net (62.115.120.248)  85.783 ms nyk-bb2-link.telia.net (80.91.246.227)  85.914 ms
+12  ffm-bb3-link.telia.net (62.115.139.14)  168.655 ms ffm-bb4-link.telia.net (213.155.131.144)  166.270 ms ffm-bb3-link.telia.net (62.115.139.16)  190.832 ms
+13  ffm-b1-link.telia.net (62.115.116.164)  169.753 ms hbg-bb1-link.telia.net (62.115.115.97)  169.534 ms ffm-b1-link.telia.net (62.115.116.158)  186.768 ms
+14  1o1internet-ic-309319-ffm-b1.c.telia.net (213.248.97.98)  182.753 ms  182.622 ms  182.033 ms
+15  * * *
+16  * 1o1internet-ic-309319-ffm-b1.c.telia.net (213.248.97.98)  176.374 ms  181.153 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

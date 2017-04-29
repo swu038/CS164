@@ -1,0 +1,11 @@
+traceroute to google.com (216.58.217.206), 30 hops max, 60 byte packets
+ 1  rtr31-2.cs.ucr.edu (169.235.31.2)  1.193 ms  1.833 ms  1.922 ms
+ 2  c-tele-1-t11-4.ucr.edu (138.23.3.105)  0.406 ms  0.411 ms  0.468 ms
+ 3  xmr-telecom-1--te1-1.ucr.edu (138.23.3.29)  0.370 ms  0.485 ms  0.580 ms
+ 4  dc-riv-agg4--ucr-10ge.cenic.net (137.164.50.69)  5.235 ms  5.283 ms  5.321 ms
+ 5  dc-lax-agg7--riv-agg4-100ge.cenic.net (137.164.11.2)  5.361 ms  5.407 ms  5.530 ms
+ 6  dc-lax-agg6--lax-agg7-100g.cenic.net (137.164.11.10)  5.182 ms  5.215 ms  5.252 ms
+ 7  74.125.49.165 (74.125.49.165)  4.938 ms  4.938 ms  4.913 ms
+ 8  216.239.46.40 (216.239.46.40)  5.332 ms  5.425 ms  5.369 ms
+ 9  216.239.51.55 (216.239.51.55)  4.977 ms  5.010 ms  5.038 ms
+10  lax17s05-in-f14.1e100.net (216.58.217.206)  4.943 ms  4.910 ms  4.900 ms

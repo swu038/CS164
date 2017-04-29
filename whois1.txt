@@ -1,0 +1,94 @@
+[Querying whois.apnic.net]
+[whois.apnic.net]
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.25.0.0 - 210.25.255.255'
+
+inetnum:        210.25.0.0 - 210.25.255.255
+netname:        CERNET-CN-PI
+descr:          China Education and Research Network
+descr:          Room 224, Tsinghua University
+descr:          Beijing, China
+descr:          PI allocation for
+descr:          multi-homed members
+country:        CN
+admin-c:        JW725-AP
+tech-c:         XL364-AP
+tech-c:         LZ530-AP
+remarks:        confederation
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CERNET-AP
+mnt-irt:        IRT-CERNET-AP
+changed:        xing@cernet.edu.cn 19980815
+changed:        hostmaster@apnic.net 19980831
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20041214
+source:         APNIC
+
+irt:            IRT-CERNET-AP
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+fax-no:         +86-10-62785933
+e-mail:         abuse@net.edu.cn
+abuse-mailbox:  abuse@net.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+auth:           # Filtered
+remarks:        timezone GMT+8
+remarks:        http://www.ccert.edu.cn
+mnt-by:         MAINT-CERNET-AP
+changed:        hm-changed@net.edu.cn 20101126
+source:         APNIC
+
+person:         Jianping Wu
+address:        China Education and Research Network Center
+address:        Room 225, Main Building, Tsinghua University
+address:        Beijing 100084
+address:        CN
+country:        CN
+phone:          +86-10-6278-5983
+fax-no:         +86-10-6278-5933
+e-mail:         jianping@cernet.edu.cn
+nic-hdl:        JW725-AP
+mnt-by:         MAINT-CERNET-AP
+changed:        hm-changed@apnic.net 20041214
+source:         APNIC
+changed:        hm-changed@apnic.net 20111122
+
+person:         Ling Zhang
+address:        Network Center
+address:        South China University of Technology
+address:        Guangzhou, Guangdong 510641, China
+address:        CN
+country:        CN
+phone:          +86-20-87110596
+fax-no:         +86-20-87110019
+e-mail:         ling@scut.edu.cn
+nic-hdl:        LZ530-AP
+notify:         dbmon@apnic.net
+mnt-by:         MAINT-CERNET-AP
+changed:        hm-changed@apnic.net 20041214
+source:         APNIC
+changed:        hm-changed@apnic.net 20111122
+
+person:         Xing Li
+address:        China Education and Research Network Center
+address:        Room 225, Main Building, Tsinghua University
+address:        Beijing 100084
+address:        CN
+country:        CN
+phone:          +86-10-6278-5983
+fax-no:         +86-10-6278-5933
+e-mail:         xing@cernet.edu.cn
+nic-hdl:        XL364-AP
+mnt-by:         MAINT-CERNET-AP
+changed:        hm-changed@apnic.net 20041214
+source:         APNIC
+changed:        hm-changed@apnic.net 20111122
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+
